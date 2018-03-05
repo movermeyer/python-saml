@@ -1,8 +1,8 @@
 # python-saml
 [![Build Status](https://travis-ci.org/mehcode/python-saml.png?branch=master)](https://travis-ci.org/mehcode/python-saml)
 [![Coverage Status](https://coveralls.io/repos/mehcode/python-saml/badge.png?branch=master)](https://coveralls.io/r/mehcode/python-saml?branch=master)
-[![PyPi Version](https://pypip.in/v/saml/badge.png)](https://pypi.python.org/pypi/saml)
-![PyPi Downloads](https://pypip.in/d/saml/badge.png)
+[![PyPi Version](https://img.shields.io/pypi/v/saml.svg)](https://pypi.python.org/pypi/saml)
+![PyPi Downloads](https://img.shields.io/pypi/dm/saml.svg)
 > A python interface to produce and consume Security Asserion Markup Language v2.0 (SAML2) messages.
 
 ## Features
